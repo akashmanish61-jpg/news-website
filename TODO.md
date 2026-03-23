@@ -1,0 +1,8 @@
+- [x] Add missing CSS variables to :root for light theme consistency (--card, --border, --accent, --text, --muted)
+- [x] Update .article styles (background, border, p color)
+- [x] Update .comments border-top
+- [x] Update .comment styles (background, border, .time color)
+- [ ] Update .comment-form .field label color
+- [ ] Update .field input and textarea styles (background, color, border)
+- [ ] Update .btn background and hover
+- [ ] Update .note color
